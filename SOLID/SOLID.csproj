@@ -4,4 +4,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="L\" />
+    <Folder Include="I\" />
+    <Folder Include="S\" />
+    <Folder Include="O\" />
+    <Folder Include="D\" />
+  </ItemGroup>
+
 </Project>
