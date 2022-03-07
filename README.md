@@ -1,4 +1,4 @@
-# SOLIDExamples
+# SOLID Examples
 A List of examples for the SOLID principles in .NET
 
 In the Solid folder we have the principles explained One-By-One in practical examples.
