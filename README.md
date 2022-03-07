@@ -3,7 +3,7 @@ A List of examples for the SOLID principles in .NET
 
 In the Solid folder we have the principles explained One-By-One in practical examples.
 
-<h1>Teory</h1>
+<h1>Theory</h1>
 
 SOLID are the 5 letter for the this principles of programing, but they are more like a recomendation or good practices.
 The 5 letters are:
