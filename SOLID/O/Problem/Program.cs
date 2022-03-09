@@ -8,7 +8,7 @@ namespace SOLID.O.Problem
     {
         public static void Main()
         {
-            List<Order> orders = new List<Order>();
+            List<Order> orders = new List<Order>(); // Get orders from data source
 
             ReportingService services = new ReportingService();
             services.GenerateReport(orders, ReportType.GetType.PDF);
