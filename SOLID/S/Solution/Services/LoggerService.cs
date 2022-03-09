@@ -1,10 +1,9 @@
 ﻿using SOLID.S.Solution.Interfaces;
 using System;
-using System.IO;
 
 namespace SOLID.S.Solution.Services
 {
-    public class LoggerService: ILoggerService
+    public class LoggerService : ILoggerService
     {
         public LoggerService()
         {
@@ -12,7 +11,7 @@ namespace SOLID.S.Solution.Services
             // that is creating the log file with necessary details
         }
 
-        public void Info(string info) 
+        public void Info(string info)
         {
             // here we need to write the code for info information into the ErrorLog text file
         }
@@ -26,7 +25,5 @@ namespace SOLID.S.Solution.Services
         {
             // here we need to write the code for error information into the ErrorLog text file
         }
-
-
     }
 }

@@ -7,9 +7,8 @@
   <ItemGroup>
     <Folder Include="L\" />
     <Folder Include="I\" />
-    <Folder Include="S\" />
-    <Folder Include="O\" />
     <Folder Include="D\" />
+    <Folder Include="O\Solution\" />
   </ItemGroup>
 
 </Project>
