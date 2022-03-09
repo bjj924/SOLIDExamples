@@ -1,0 +1,12 @@
+
+In this example we have two folders:
+
+- Problem
+- Solution
+
+The example itself is about the implementation of service of orders that send an invoice via mail when the order 
+was processed completely and log the line in a file or send an error to the log in another file.
+
+The folder "Problem" contains an example of a class that does not fulfill the Single Responsibility principle, while on the folder  
+"Solution" contains how the class in "Problem" will look if the principle was correctly aplyed.
+
