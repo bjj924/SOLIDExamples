@@ -5,10 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="L\" />
-    <Folder Include="I\" />
-    <Folder Include="D\" />
-    <Folder Include="O\Solution\" />
+    <Folder Include="D\Problem\" />
+    <Folder Include="D\Solution\" />
   </ItemGroup>
 
 </Project>

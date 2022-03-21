@@ -1,0 +1,10 @@
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\obj\Debug\netcoreapp3.1\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\johob\Desktop\Git Projects\SOLID\SOLIDExamples\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
